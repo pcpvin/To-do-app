@@ -1,4 +1,4 @@
-# shopping_list
+# To-do lIst app written in flutter
 
 A new Flutter project.
 
